@@ -1,0 +1,2 @@
+# Airline-Tickets-Prediction
+Real World use case of machine learning needed to predict the ticket prices of airlines worked on many cleaning techniques ,dealing with missing values and outliers also tried more than one algorithm as a try to see which one is the best and compare between each one  
